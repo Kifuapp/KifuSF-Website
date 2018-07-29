@@ -1104,11 +1104,7 @@ input:-webkit-autofill:focus {
 }
 
 .is-sticky .navbar-brand > img {
-<<<<<<< HEAD
-    max-width: 10%;
-=======
-    max-width: 13%;
->>>>>>> gh-pages
+    max-width: 5%;
 }
 
 /*ul#nav {
