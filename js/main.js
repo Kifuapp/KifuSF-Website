@@ -200,7 +200,7 @@ jQuery(document).on('ready', function ($) {
         center: true,
         navText: ['<i class="fa fa-long-arrow-left"></i> Prev', 'Next <i class="fa fa-long-arrow-right"></i>'],
         autoplay: true,
-        autoplayTimeout: 3000,
+        autoplayTimeout: 1750,
         margin: 30,
         responsiveClass: true,
         responsive: {
