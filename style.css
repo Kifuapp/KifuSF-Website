@@ -1690,7 +1690,7 @@ ul#nav li ul a,
 .member-thumb img {
     display: block;
     margin: 0 auto;
-    width: 80%;
+    width: 100%;
 }
 
 .member-name-and-designation h3 {
@@ -1737,6 +1737,7 @@ ul#nav li ul a,
 
 .team-member-thumb-menu ul {
     text-align: center;
+  
 }
 
 .team-member-thumb-menu ul li {
